@@ -1,0 +1,12 @@
+{
+  "name": "orm-task-agungwe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/agungwe/orm-task-agungwe.git",
+  "author": "agungwe <agungw@ecampus.ut.ac.id>",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4"
+  }
+}
